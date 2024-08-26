@@ -1,6 +1,6 @@
 # Jido
 
-[![Build Status](https://github.com/your-org/jido/workflows/CI/badge.svg)](https://github.com/your-org/jido/actions) [![Hex.pm](https://img.shields.io/hexpm/v/jido.svg)](https://hex.pm/packages/jido) [![Documentation](https://img.shields.io/badge/documentation-gray)](https://hexdocs.pm/jido)
+[![Build Status](https://github.com/jidohq/jido-preview/workflows/CI/badge.svg)](https://github.com/jidohq/jido-preview/actions) [![Hex.pm](https://img.shields.io/hexpm/v/jido.svg)](https://hex.pm/packages/jido) [![Documentation](https://img.shields.io/badge/documentation-gray)](https://hexdocs.pm/jido)
 
 Jido is a robust, composable operation framework for building scalable and fault-tolerant distributed systems in Elixir. It provides a simple yet powerful abstraction called "Thunks" for defining and executing discrete units of work across distributed environments.
 
@@ -153,7 +153,7 @@ end
 ## Learn More
 
 - [Full Documentation](https://hexdocs.pm/jido)
-- [Examples](https://github.com/your-org/jido/tree/main/examples)
+- [Examples](https://github.com/jidohq/jido-preview/tree/main/examples)
 - [Guides](https://hexdocs.pm/jido/guides/introduction.html)
 
 ## Contributing
@@ -162,4 +162,4 @@ We appreciate any contribution to Jido. Check out our [contribution guidelines](
 
 ## License
 
-Jido is released under the [MIT License](LICENSE.md).
+Jido is released under the [Apache 2.0 License](LICENSE.md).
